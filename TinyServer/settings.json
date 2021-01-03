@@ -1,0 +1,20 @@
+[
+    {
+        "type": "string",
+        "section": "main",
+        "title": "Root folder",
+        "key": "root"
+    },
+    {
+        "type": "bool",
+        "section": "main",
+        "title": "Allow uploads",
+        "key": "allow_uploads"
+    },
+    {
+        "type": "numeric",
+        "section": "main",
+        "title": "Port",
+        "key": "port"
+    }
+]
